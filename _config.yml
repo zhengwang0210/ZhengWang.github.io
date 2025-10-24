@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img.png"
+  avatar           : "img.webp"
   name             : "Zheng Wang"
   pronouns         : # example: "she/her"  
   bio              : "I'm a second year graduate student from School of Computer Science and Artificial Intelligence, ZhengZhou University"
